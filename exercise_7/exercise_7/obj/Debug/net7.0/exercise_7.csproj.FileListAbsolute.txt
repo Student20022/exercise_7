@@ -1,0 +1,15 @@
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/obj/Debug/net7.0/exercise_7.csproj.AssemblyReference.cache
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/obj/Debug/net7.0/exercise_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/obj/Debug/net7.0/exercise_7.AssemblyInfoInputs.cache
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/obj/Debug/net7.0/exercise_7.AssemblyInfo.cs
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/obj/Debug/net7.0/exercise_7.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/bin/Debug/net7.0/exercise_7
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/bin/Debug/net7.0/exercise_7.deps.json
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/bin/Debug/net7.0/exercise_7.runtimeconfig.json
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/bin/Debug/net7.0/exercise_7.dll
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/bin/Debug/net7.0/exercise_7.pdb
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/obj/Debug/net7.0/exercise_7.dll
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/obj/Debug/net7.0/refint/exercise_7.dll
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/obj/Debug/net7.0/exercise_7.pdb
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/obj/Debug/net7.0/exercise_7.genruntimeconfig.cache
+/Users/mac/Documents/c# folder/exercise_7/exercise_7/obj/Debug/net7.0/ref/exercise_7.dll
